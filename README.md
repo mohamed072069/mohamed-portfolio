@@ -32,4 +32,4 @@ If you'd like to get in touch with me, please fill out the form on my portfolio 
  How to View the Portfolio
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/portfolio.git
+   git clone https://github.com/mohamed072069/mohamed-portfolio.
